@@ -1,0 +1,35 @@
+=== Security Incident Report ===
+
+Log: Apr 15 09:01:23 server sshd[1999]: Failed password for invalid user admin from 192.168.1.5 port 55874 ssh2
+Tactic: Credential Access
+Technique: Brute Force
+MITRE ID: T1110
+
+Log: Apr 15 09:01:24 server sshd[1999]: Failed password for invalid user admin from 192.168.1.5 port 55874 ssh2
+Tactic: Credential Access
+Technique: Brute Force
+MITRE ID: T1110
+
+Log: Apr 15 09:01:26 server sshd[1999]: Failed password for invalid user admin from 192.168.1.5 port 55874 ssh2
+Tactic: Credential Access
+Technique: Brute Force
+MITRE ID: T1110
+
+Log: Apr 15 09:01:28 server sshd[1999]: Failed password for invalid user admin from 192.168.1.5 port 55874 ssh2
+Tactic: Credential Access
+Technique: Brute Force
+MITRE ID: T1110
+
+Log: Apr 15 09:01:29 server sshd[1999]: Failed password for invalid user admin from 192.168.1.5 port 55874 ssh2
+Tactic: Credential Access
+Technique: Brute Force
+MITRE ID: T1110
+
+Log: Apr 15 09:01:31 server sshd[1999]: Accepted password for user from 192.168.1.5 port 55874 ssh2
+Tactic: Initial Access
+Technique: Valid Accounts
+MITRE ID: T1078
+
+=== Brute Force Detection Summary ===
+
+Potential Brute Force Detected from IP: 192.168.1.5 - 5 failed attempts

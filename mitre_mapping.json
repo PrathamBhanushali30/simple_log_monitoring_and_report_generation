@@ -1,0 +1,13 @@
+{
+    "Failed password": {
+      "Tactic": "Credential Access",
+      "Technique": "Brute Force",
+      "MITRE ID": "T1110"
+    },
+    "Accepted password": {
+      "Tactic": "Initial Access",
+      "Technique": "Valid Accounts",
+      "MITRE ID": "T1078"
+    }
+  }
+  
