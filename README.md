@@ -13,8 +13,9 @@ Generates a clear text-based security incident report
 ## 🛠️ Installation
 *Clone the repository:*
 
-``git clone https://github.com/PrathamBhanushali30/simple_log_monitoring_and_report_generation.git </n>
- cd log_analysis_project``
+``git clone https://github.com/PrathamBhanushali30/simple_log_monitoring_and_report_generation.git``
+ 
+ ``cd log_analysis_project``
 
 ## ▶️ Usage
 *Run the detection script:*
